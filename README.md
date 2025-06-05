@@ -59,9 +59,9 @@
 
 ### 📜 Certifications
 
-- ✅ [Udemy] Database Management Systems  
-- ✅ [Scaler] Computer Networks  
-- ✅ [Udemy] System Design
+- ✅  Certification in Database Management Systems  
+- ✅ Certification in Computer Networks  
+- ✅ Certification in System Design
 
 ---
 
@@ -72,5 +72,5 @@
   <a href="https://codeforces.com/profile/grohan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/rohansureshgupta/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
   <a href="mailto:rohansureshgupta@gmail.com" target="blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="40" /></a>
-  <a href="https://rohanguptaportfolio.netlify.app/" target="blank"><img src="https://www.vectorlogo.zone/logos/netlifyapp/netlifyapp-icon.svg" alt="portfolio" height="30" width="40" /></a>
+<!--   <a href="https://rohanguptaportfolio.netlify.app/" target="blank"><img src="[https://www.vectorlogo.zone/logos/netlifyapp/netlifyapp-icon.svg](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" alt="portfolio" height="30" width="40" /></a> -->
 </p>
