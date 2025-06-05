@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohan-gupta-7330111ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohan-gupta-7330111ab/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/grohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/grohan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/rohansureshgupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rohansureshgupta/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rohan-gupta-7330111ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-gupta-7330111ab/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/grohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="grohan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rohansureshgupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohansureshgupta/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
